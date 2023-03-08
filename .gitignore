@@ -1,0 +1,33 @@
+# Go
+*.exe
+*.test
+*.prof
+*.pprof
+*.trace
+
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Folders
+/tmp/
+/vendor/
+/build/
+
+# Go Fiber
+*.pid
+*.log
+*.json
+
+# RabbitMQ
+*.log
+*.pid
+*.erl_crash.dump
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
